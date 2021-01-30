@@ -1,0 +1,55 @@
+body {
+  font-family: arial;
+}
+
+ h1 {
+  background-color: hsl(5, 100%, 40%);
+  color: white;
+  font-weight: bold;
+  font-size: 40;
+  padding: 20px;
+}
+
+
+h2 {
+  font-weight: bold;
+  font-size: 24;
+  padding: 10px 0px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20;
+  padding: 10px 0px;
+}
+
+ul {
+  overflow: hidden;
+  background-color: hsl(0, 0%, 24%);
+  color: white;
+  padding: 10px;
+}
+
+li {
+  float: right;
+  text-align: center;
+  padding: 10px;
+  text-decoration: underline;
+}
+
+main {
+  width: 1000;
+  margin: 25px;
+}
+
+footer {
+  background-color: hsl(0, 0%, 37%);
+  color: white;
+  padding: 10px;
+}
+
+aside {
+  float:right;
+  padding-right: 30px;
+  padding-top: 18px;
+} */ */
